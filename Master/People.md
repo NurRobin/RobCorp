@@ -2,5 +2,5 @@
 tags:
   - hidden
 ---
-Founder, [[Robert Cornelius]] 
+Founder of [[Cornelius' Coffins]] whic, [[Robert Cornelius]] 
 Business partner of [[Robert Cornelius]], [[Karl]]
