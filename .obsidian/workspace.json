@@ -1,20 +1,21 @@
 {
   "main": {
-    "id": "fb51e625715beb9c",
+    "id": "3785061398e4448d",
     "type": "split",
     "children": [
       {
-        "id": "251850c8fa201fda",
+        "id": "c86e7e67fd36d2ac",
         "type": "tabs",
         "children": [
           {
-            "id": "bf8010eb6031e74d",
+            "id": "c8fc64a4a9c3e000",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
+                "file": "Outside RobCorp/Cascading Coffin Fatalities.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -24,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0ec850d9aa6ef521",
+    "id": "f85f504892b4b275",
     "type": "split",
     "children": [
       {
-        "id": "5e91be30ad69e7c6",
+        "id": "7e83eec2ca3df723",
         "type": "tabs",
         "children": [
           {
-            "id": "47e8677372cffa73",
+            "id": "144563b775f5627e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,7 +43,7 @@
             }
           },
           {
-            "id": "d80d812768e91ae7",
+            "id": "b86dfaeeadf1e81c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,7 +58,7 @@
             }
           },
           {
-            "id": "a55fad453494e46e",
+            "id": "b2149577d75471fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "7ca4b9e4ff44ab30",
+    "id": "840965266fa8466f",
     "type": "split",
     "children": [
       {
-        "id": "f13dbf695285b11f",
+        "id": "bbbab0ca73509f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "7a682f18ce721fe3",
+            "id": "fcc71c88a99be679",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Outside RobCorp/Cascading Coffin Fatalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,18 +97,19 @@
             }
           },
           {
-            "id": "d8bc562133255e74",
+            "id": "3e20dab0c2e4a400",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Outside RobCorp/Cascading Coffin Fatalities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3899307c5ef95e1f",
+            "id": "c47932241f6a4dc0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -117,23 +120,16 @@
             }
           },
           {
-            "id": "86938272e8660cb2",
+            "id": "482d3236669f3aa7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "1fbca133568deac6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {
+                "file": "Outside RobCorp/Cascading Coffin Fatalities.md"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,18 +137,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf8010eb6031e74d",
+  "active": "c8fc64a4a9c3e000",
   "lastOpenFiles": [
+    "Outside RobCorp/Gus Graveyard Services.md",
+    "Master/Timeline.md",
+    "test.md",
+    "Outside RobCorp/Cascading Coffin Fatalities.md",
+    "Outside RobCorp",
+    "Murder Coffin/Bloody Coffin Incident.md",
+    "Murder Coffin",
+    "Master/People/Robert Cornelius.md",
+    "Master/People/Karl.md",
+    "Master/People",
+    "Master/Eras/Founding years/Cornelius' Coffins.md",
+    "Master/Eras/Founding years/The  Beginning.md",
+    "Master/Eras/Founding years/A coffin for a King.md",
+    "Master/Eras/Founding years",
+    "Master/People.md",
+    "Master/Eras",
+    "Master",
+    "incident of the Bloody Coffin.md",
+    "().md",
+    "Master/Eras/Founding years/Founding Years.md",
+    "Master/Eras/20th Century.md",
+    "Untitled 1",
+    "- Founding Years.md",
     "Welcome.md"
   ]
 }
