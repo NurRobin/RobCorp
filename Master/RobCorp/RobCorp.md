@@ -1,45 +1,52 @@
 ---
-tags:
-  - hidden
+tags: []
 ---
-Here's an updated draft for **RobCorp.md** based on your ranks and roles as reflected in your *Star Citizen* organization:
-
----
-
 # **Welcome to RobCorp**  
-### *"Building legacies across the galaxy."*
+### *"Delivering goods. Preserving legacies. Across the galaxy."*
 
-RobCorp stands as a **galactic powerhouse**, founded on centuries of innovation, vision, and influence. From our humble beginnings as coffin makers in the late 19th century, RobCorp has evolved into a **megacorporation**, expanding into all sectors of life—both during and beyond.
+From humble beginnings as a coffin-making business in 1887, **RobCorp** has evolved into a **galactic leader** in both **transportation** and **security services**, while still holding true to our roots in **life preservation**. RobCorp offers a seamless blend of cutting-edge **security operations**, **transport logistics**, and **post-life planning**, ensuring that not only your assets but also your legacy are handled with the care they deserve.
 
-### **Our Structure: A Tiered Legacy**
+### **Our Structure: A Legacy of Innovation**
 
-At RobCorp, every role and rank is carefully designed to reflect the importance of hierarchy, responsibility, and, most importantly, **legacy building**. As a part of our elite team, each member contributes to maintaining our galactic presence and prestige.
+At RobCorp, our dual focus on **protecting your assets in life** and **preserving your memory beyond** has allowed us to create a unique synergy. Our organizational structure reflects this balance, ensuring every team member has a role in both securing valuable cargo and delivering legacy-building services.
 
-#### **Roles: The Pillars of RobCorp**
-- **Founder – CEO**: With all-access authority, the CEO is the lifeblood of RobCorp, making critical decisions that shape the future of the company across the cosmos.
+#### **Roles: The Heart of RobCorp**
+- **Founder – CEO**: With all-access authority, the CEO oversees both the security of high-value assets and the planning of final legacies, ensuring seamless coordination between the living and their everlasting memory.
   
-- **Officer – Die Exekutive**: The decision-makers and strategists. They manage our members, ranks, and roles, ensuring that our vast organization runs efficiently across multiple planetary systems.
+- **Officer – Die Exekutive**: Managing both our transport fleets and funeral operations, these officers ensure that our clients' goods, as well as their memorials, arrive exactly where they need to be, on time and secure.
 
-- **Recruitment – Human Waste Management**: Keeping our organization strong requires meticulous attention to detail. This team handles applicant reviews and integrates new talent into the RobCorp vision.
+- **Recruitment – Human Waste Management**: Handling talent acquisition, they ensure that RobCorp recruits only the best in the galaxy, from logistics specialists to memorial designers.
 
-- **Marketing – Propaganda Expert**: Our branding experts make sure that the galaxy knows the power, prestige, and reach of RobCorp. From stellar advertisement campaigns to subtle influence strategies, they ensure our message is received far and wide.
+- **Marketing – Propaganda Expert**: Crafting the image of RobCorp across the UEE, the Propaganda Experts ensure that our **Still-Alive Packages™**, **legacy planning**, and **security solutions** are known throughout the stars.
 
-#### **Ranks: Climbing the Corporate Ladder**
-- **Rank 5 – CEO of CEOs**: The ultimate figure of authority beneath the Founder. The CEO of CEOs oversees the entirety of RobCorp operations, maintaining control over key projects and leading top-level management across multiple star systems.
-  
-- **Rank 4 – Court Jester**: Though the name implies humor, this rank is for the individual responsible for ensuring morale stays high. The **Court Jester** uses wit, charm, and intelligence to keep RobCorp's elite satisfied and inspired.
+#### **Ranks: From Cargo to Eternity**
+- **Rank 5 – CEO of CEOs**: These individuals coordinate both the company’s **interstellar security contracts** and our **memorial operations**—whether protecting a shipment of precious cargo or orchestrating a galaxy-class farewell.
 
-- **Rank 3 – Middle Manager**: The backbone of RobCorp. Middle Managers coordinate day-to-day operations, making sure that our lower ranks adhere to protocols and push towards collective success.
+- **Rank 4 – Court Jester**: More than a morale booster, the **Court Jester** ensures smooth communication between clients and executives, particularly for those involved in legacy services such as **holo-memorials**.
 
-- **Rank 2 – Man in Black**: The stealth operatives of RobCorp, handling sensitive missions and confidential tasks. They are unseen, unknown, but essential to maintaining RobCorp's control and influence across the galaxy.
+- **Rank 3 – Middle Manager**: Handling the logistical challenges of transporting both high-value goods and **personalized coffins**, Middle Managers ensure flawless execution from point A to point B, whether for a live cargo run or a post-life delivery.
 
-- **Rank 1 – Stift**: Our junior members, the **Stift**, handle the essential groundwork. They work under the guidance of Middle Managers, gaining valuable experience as they ascend through RobCorp's hierarchy.
+- **Rank 2 – Man in Black**: These secretive operatives handle the most delicate missions—whether safeguarding a convoy or securing the remains of an interstellar dignitary. With unmatched precision, they balance both worlds.
 
-- **Rank 0 – Cargo Boy**: The starting rank for all new members. The **Cargo Boy** title might be humble, but every CEO started somewhere. Their journey begins here, and with the right determination, they will rise to greatness within RobCorp.
+- **Rank 1 – Stift**: Our junior members assist in managing smaller-scale transport missions, while also learning the intricacies of RobCorp’s **memorial services**, becoming the future leaders of the company.
+
+- **Rank 0 – Cargo Boy**: Every journey begins here. Whether it’s moving cargo across star systems or assisting with the logistics of a grand memorial service, our **Cargo Boys** begin their ascent here.
 
 ---
 
-### **Our Mission**
-RobCorp is committed to providing **exceptional services** across multiple sectors, including life preservation, memorialization, stasis technology, and strategic influence in the UEE and beyond. We craft **immortal legacies** for those who seek to leave a permanent mark on the galaxy.
+### **RobCorp's Dual Focus: Transport and Legacy Preservation**
 
-We invite you to become part of this legendary journey. With RobCorp, your future is **secured, sustained, and celebrated**—across planets, stars, and time itself.
+RobCorp is more than just a **transport and security service**—we are **custodians of your legacy**. From ensuring that your goods are delivered safely to ensuring that your memory endures, we offer a comprehensive range of services designed to meet the needs of **both the living and the departed**.
+
+#### **Transport and Security**  
+With a vast fleet and highly trained personnel, RobCorp offers secure, fast, and efficient **transport services** across the UEE and beyond. Whether it's a critical shipment of materials or the safe transfer of high-value assets, we ensure your cargo arrives safely, no matter the risks.
+
+#### **Coffin and Memorial Services**  
+Our roots run deep in **life preservation**. From our [[Still-Alive Package™]], which offers significant savings on pre-purchased coffins, to our **holo-memorials** that allow loved ones to preserve memories in a digital format, RobCorp offers a range of services to **preserve your legacy** in both life and death. Our [[Eternal Comfort Club™]] provides membership tiers that allow for personalized memorial experiences, ensuring that each client’s final resting place is a reflection of their life.
+
+---
+
+### **Our Mission: Beyond Cargo, Beyond Life**
+At RobCorp, we understand that **transporting goods is important**, but preserving a legacy is priceless. Our mission is to offer the finest transport and security services available, while also providing a path for our clients to secure their memories in ways that will endure for centuries. 
+
+From safeguarding cargo to creating galaxy-spanning legacies, RobCorp stands by you—**now and forever**.
