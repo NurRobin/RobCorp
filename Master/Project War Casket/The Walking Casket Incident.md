@@ -1,1 +1,1 @@
-In the year 1895 the first report of a "walking" casket was reported. Whilst one report of this kind wouldn't be reason to worry 
+In the year 1895 the first report of a "walking" casket was reported. Whilst one report of this kind wouldn't be reason to worry but over the next two years similar reports appeared from all over german terr
