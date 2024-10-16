@@ -1,1 +1,2 @@
-In the year 1895 the first report of a "walking" casket was reported. Whilst one report of this kind wouldn't be reason to worry but over the next two years similar reports appeared from all over German terr
+In the year 1895 the first report of a "walking" casket was reported. Whilst one report of this kind wouldn't be reason to worry but over the next two years similar reports appeared from all over German territory. This made the administration worry and kicked of a large scale investigation. Unfortunately this investigation never bore any fruit as apparently these caskets appeared just out of thin air and vanished just as unexplainably. 
+
