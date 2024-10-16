@@ -20,17 +20,17 @@ At RobCorp, our dual focus on **protecting your assets in life** and **preservin
 - **Marketing – [[Propaganda Expert]]**: Crafting the image of RobCorp across the UEE, the Propaganda Experts ensure that our **Still-Alive Packages™**, **legacy planning**, and **security solutions** are known throughout the stars.
 
 #### **Ranks: From Cargo to Eternity**
-- **Rank 5 – CEO of CEOs**: These individuals coordinate both the company’s **interstellar security contracts** and our **memorial operations**—whether protecting a shipment of precious cargo or orchestrating a galaxy-class farewell.
+- **Rank 5 – [[CEO of CEOs]]**: These individuals coordinate both the company’s **interstellar security contracts** and our **memorial operations**—whether protecting a shipment of precious cargo or orchestrating a galaxy-class farewell.
 
-- **Rank 4 – Court Jester**: More than a morale booster, the **Court Jester** ensures smooth communication between clients and executives, particularly for those involved in legacy services such as **holo-memorials**.
+- **Rank 4 – [[Court Jester]]**: More than a morale booster, the **Court Jester** ensures smooth communication between clients and executives, particularly for those involved in legacy services such as **holo-memorials**.
 
-- **Rank 3 – Middle Manager**: Handling the logistical challenges of transporting both high-value goods and **personalized coffins**, Middle Managers ensure flawless execution from point A to point B, whether for a live cargo run or a post-life delivery.
+- **Rank 3 – [[Middle Manager]]**: Handling the logistical challenges of transporting both high-value goods and **personalized coffins**, Middle Managers ensure flawless execution from point A to point B, whether for a live cargo run or a post-life delivery.
 
-- **Rank 2 – Man in Black**: These secretive operatives handle the most delicate missions—whether safeguarding a convoy or securing the remains of an interstellar dignitary. With unmatched precision, they balance both worlds.
+- **Rank 2 – [[Men in Black]]**: These secretive operatives handle the most delicate missions—whether safeguarding a convoy or securing the remains of an interstellar dignitary. With unmatched precision, they balance both worlds.
 
-- **Rank 1 – Stift**: Our junior members assist in managing smaller-scale transport missions, while also learning the intricacies of RobCorp’s **memorial services**, becoming the future leaders of the company.
+- **Rank 1 – [[Stift]]**: Our junior members assist in managing smaller-scale transport missions, while also learning the intricacies of RobCorp’s **memorial services**, becoming the future leaders of the company.
 
-- **Rank 0 – Cargo Boy**: Every journey begins here. Whether it’s moving cargo across star systems or assisting with the logistics of a grand memorial service, our **Cargo Boys** begin their ascent here.
+- **Rank 0 – [[Cargo Boy]]**: Every journey begins here. Whether it’s moving cargo across star systems or assisting with the logistics of a grand memorial service, our **Cargo Boys** begin their ascent here.
 
 ---
 
