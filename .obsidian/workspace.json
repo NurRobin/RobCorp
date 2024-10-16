@@ -137,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master/Eras/Founding years/Cornelius' Coffins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master/Eras/Founding years/Cornelius' Coffins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Master/Eras/Founding years/Cornelius' Coffins.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,11 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c76214fb8782964c",
+  "active": "c5e272bbcce02520",
   "lastOpenFiles": [
-    "RobCorp.md",
     "Master/Eras/Founding years/Cornelius' Coffins.md",
     "Outside RobCorp/Gus Graveyard Services.md",
+    "RobCorp.md",
     "Outside RobCorp/Cascading Coffin Fatalities.md",
     "Master/Timeline.md",
     "Master/Eras/Founding years/A coffin for a King.md",
