@@ -1,0 +1,7 @@
+---
+aliases:
+  - incident of the Bloody Coffin
+---
+Whilst the nobles where discussing who would get the honor to [[A coffin for a King|make the coffin for the newly dead Kaiser Wilhelm]]  something unusual happened to one of the contenders. During an unusually dark night every member of [[Gus Graveyard Services]] died under mysterious circumstances. On the day after the massacre the only thing investigators found was a crudely made coffin drenched in blood. The investigators reported that the coffin made them feel dread like never before. Reports also show that anyone who looked at the coffin was haunted by never ending nightmares. As such the authorities decided to burn the coffin in hopes to alleviate the stress from anyone who came into contact with said coffin. Whilst at first the affected people reported a betterment in their situation just 6 days after the coffin was burned those who came into contact with the coffin all succumbed to insanity and started rampaging. The only way authorities could stop their madness was death. 
+
+Whilst the ones who witnessed the incident claimed that this incident happened due to some curse or black magic more recent historians believe this to be a failed experiment from the infamous [[Project War-Casket|War-Casket project]] by [[RobCorp]].

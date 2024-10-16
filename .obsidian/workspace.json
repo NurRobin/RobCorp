@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Murder Coffin/Bloody Coffin Incident.md",
+                "file": "Master/Project War Casket/Project War-Casket.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Outside RobCorp/Gus Graveyard Services.md",
+                    "file": "Master/Timeline.md",
                     "mode": "source",
                     "source": false
                   }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Murder Coffin/Bloody Coffin Incident.md",
+                "file": "Master/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Murder Coffin/Bloody Coffin Incident.md",
+                "file": "Master/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Murder Coffin/Bloody Coffin Incident.md"
+                "file": "Master/Timeline.md"
               }
             }
           }
@@ -199,20 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c76214fb8782964c",
+  "active": "b64e0b52eeeebcf8",
   "lastOpenFiles": [
-    "Outside RobCorp/Gus Graveyard Services.md",
-    "Murder Coffin/Bloody Coffin Incident.md",
+    "Master/Project War Casket/Project War-Casket.md",
+    "Master/Project War Casket/Bloody Coffin Incident.md",
+    "Master/Timeline.md",
+    "Master/RobCorp.md",
+    "Master/People.md",
+    "Master/Outside RobCorp/Gus Graveyard Services.md",
     "Master/Eras/Founding years/A coffin for a King.md",
     "Master/Eras/Founding years/The  Beginning.md",
     "Master/Eras/Founding years/Cornelius' Coffins.md",
-    "Master/People.md",
-    "Master/Timeline.md",
-    "RobCorp.md",
-    "Outside RobCorp/Cascading Coffin Fatalities.md",
+    "Master/Outside RobCorp/Cascading Coffin Fatalities.md",
     "test.md",
-    "Outside RobCorp",
-    "Murder Coffin",
+    "Master/Outside RobCorp",
+    "Master/Project War Casket",
     "Master/People/Robert Cornelius.md",
     "Master/People/Karl.md",
     "Master/People",

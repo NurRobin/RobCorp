@@ -1,1 +1,5 @@
+---
+aliases:
+  - make the coffin for the newly dead Kaiser Wilhelm
+---
 After [[Robert Cornelius]] and [[Karl]] started working together the popularity of their works became even greater. Some would even say that their coffins where to die for, as seen in the [[Cascading Coffin Fatalities]] on the 2nd of January 1888. During this time [[Cornelius' Coffins]] became quite renowned among the German nobility. They became so renowned that when [Kaiser Wilhelm](https://de.wikipedia.org/wiki/Wilhelm_I._(Deutsches_Reich)) died on March 9th 1888 they where considered to make the Coffin for the deceased Kaiser. At the time of death there were two coffin makers who where considered for making the Kaisers coffin those where [[Cornelius' Coffins]] and [[Gus Graveyard Services]]. Whilst the nobles tended towards letting Gus Graveyard Services take the job, just before they could be appointed everyone employee of Gus Graveyard Services died  tragically in the [[Bloody Coffin Incident|incident of the Bloody Coffin]]. Whilst the authorities and the public suspected involvement of Cornelius' Coffins in this incident, there wasn't any concrete proof of their involvement. 
