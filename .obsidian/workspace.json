@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master/Project War Casket/Project War-Casket.md",
+                "file": "Master/Project War Casket/Bloody Coffin Incident.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master/Timeline.md",
+                "file": "Master/Project War Casket/Bloody Coffin Incident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master/Timeline.md",
+                "file": "Master/Project War Casket/Bloody Coffin Incident.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master/Timeline.md"
+                "file": "Master/Project War Casket/Bloody Coffin Incident.md"
               }
             }
           }
@@ -199,13 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b64e0b52eeeebcf8",
+  "active": "c76214fb8782964c",
   "lastOpenFiles": [
-    "Master/Project War Casket/Project War-Casket.md",
-    "Master/Project War Casket/Bloody Coffin Incident.md",
     "Master/Timeline.md",
-    "Master/RobCorp.md",
+    "Master/Project War Casket/Bloody Coffin Incident.md",
+    "Master/Project War Casket/Project War-Casket.md",
     "Master/People.md",
+    "Master/RobCorp.md",
     "Master/Outside RobCorp/Gus Graveyard Services.md",
     "Master/Eras/Founding years/A coffin for a King.md",
     "Master/Eras/Founding years/The  Beginning.md",
