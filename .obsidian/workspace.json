@@ -124,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Outside RobCorp/Cascading Coffin Fatalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Outside RobCorp/Cascading Coffin Fatalities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Outside RobCorp/Cascading Coffin Fatalities.md"
+              }
             }
           }
         ]
@@ -182,12 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5e272bbcce02520",
+  "active": "c8fc64a4a9c3e000",
   "lastOpenFiles": [
-    "Outside RobCorp/Cascading Coffin Fatalities.md",
     "Master/Timeline.md",
-    "Outside RobCorp/Gus Graveyard Services.md",
+    "Outside RobCorp/Cascading Coffin Fatalities.md",
     "test.md",
+    "Outside RobCorp/Gus Graveyard Services.md",
     "Outside RobCorp",
     "Murder Coffin/Bloody Coffin Incident.md",
     "Murder Coffin",
