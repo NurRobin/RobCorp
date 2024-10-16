@@ -1,2 +1,4 @@
 # To block the workspace.json file from being tracked by git
 .obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/plugins/obsidian-git/data.json
