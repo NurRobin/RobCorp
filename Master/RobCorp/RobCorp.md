@@ -2,7 +2,7 @@
 tags: []
 ---
 # **Welcome to RobCorp**  
-### *"Delivering goods. Preserving legacies. Across the galaxy."*
+### *"Delivering goods. Preserving legacies. Across the galaxies."*
 
 From humble beginnings as a coffin-making business in 1887, **RobCorp** has evolved into a **galactic leader** in both **transportation** and **security services**, while still holding true to our roots in **life preservation**. RobCorp offers a seamless blend of cutting-edge **security operations**, **transport logistics**, and **post-life planning**, ensuring that not only your assets but also your legacy are handled with the care they deserve.
 
