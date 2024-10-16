@@ -1,2 +1,3 @@
 In the year 1895 the first report of a "walking" casket was reported. Whilst one report of this kind wouldn't be reason to worry but over the next two years similar reports appeared from all over German territory. This made the administration worry and kicked of a large scale investigation. Unfortunately this investigation never bore any fruit as apparently these caskets appeared just out of thin air and vanished just as unexplainably. 
 
+Just as the [[Bloody Coffin Incident]] modern historians believe this to be one of the earlier experiment of [[Project War-Casket]]. 
