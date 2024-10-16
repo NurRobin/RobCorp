@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c76214fb8782964c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master/Eras/Founding years/Cornelius' Coffins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0255b82a9099c337",
@@ -186,12 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8fc64a4a9c3e000",
+  "active": "c76214fb8782964c",
   "lastOpenFiles": [
+    "RobCorp.md",
+    "Master/Eras/Founding years/Cornelius' Coffins.md",
     "Outside RobCorp/Gus Graveyard Services.md",
     "Outside RobCorp/Cascading Coffin Fatalities.md",
     "Master/Timeline.md",
-    "Master/Eras/Founding years/Cornelius' Coffins.md",
     "Master/Eras/Founding years/A coffin for a King.md",
     "Master/Eras/Founding years/The  Beginning.md",
     "Master/People.md",
