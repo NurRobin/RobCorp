@@ -1,3 +1,7 @@
+---
+tags:
+  - Membership-package
+---
 - **Weekly Fee**: 25 UEC
 - **Discount**: 5% off on all **pre-purchased coffins**
 - **Benefits**:

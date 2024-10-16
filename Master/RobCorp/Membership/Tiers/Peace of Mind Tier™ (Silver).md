@@ -1,3 +1,7 @@
+---
+tags:
+  - Membership-package
+---
 - Weekly Fee**: 100 UEC
 - **Discount**: 10% off all pre-purchased coffins and funeral services
 - **Benefits**:
