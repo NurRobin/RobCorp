@@ -11,13 +11,13 @@ From humble beginnings as a coffin-making business in 1887, **RobCorp** has evol
 At RobCorp, our dual focus on **protecting your assets in life** and **preserving your memory beyond** has allowed us to create a unique synergy. Our organizational structure reflects this balance, ensuring every team member has a role in both securing valuable cargo and delivering legacy-building services.
 
 #### **Roles: The Heart of RobCorp**
-- **Founder – CEO**: With all-access authority, the CEO oversees both the security of high-value assets and the planning of final legacies, ensuring seamless coordination between the living and their everlasting memory.
+- **Founder – [[CEO]]: With all-access authority, the CEO oversees both the security of high-value assets and the planning of final legacies, ensuring seamless coordination between the living and their everlasting memory.
   
-- **Officer – Die Exekutive**: Managing both our transport fleets and funeral operations, these officers ensure that our clients' goods, as well as their memorials, arrive exactly where they need to be, on time and secure.
+- **Officer – [[Die Exekutive]]**: Managing both our transport fleets and funeral operations, these officers ensure that our clients' goods, as well as their memorials, arrive exactly where they need to be, on time and secure.
 
-- **Recruitment – Human Waste Management**: Handling talent acquisition, they ensure that RobCorp recruits only the best in the galaxy, from logistics specialists to memorial designers.
+- **Recruitment – [[Human Waste Management]]**: Handling talent acquisition, they ensure that RobCorp recruits only the best in the galaxy, from logistics specialists to memorial designers.
 
-- **Marketing – Propaganda Expert**: Crafting the image of RobCorp across the UEE, the Propaganda Experts ensure that our **Still-Alive Packages™**, **legacy planning**, and **security solutions** are known throughout the stars.
+- **Marketing – [[Propaganda Expert]]**: Crafting the image of RobCorp across the UEE, the Propaganda Experts ensure that our **Still-Alive Packages™**, **legacy planning**, and **security solutions** are known throughout the stars.
 
 #### **Ranks: From Cargo to Eternity**
 - **Rank 5 – CEO of CEOs**: These individuals coordinate both the company’s **interstellar security contracts** and our **memorial operations**—whether protecting a shipment of precious cargo or orchestrating a galaxy-class farewell.
