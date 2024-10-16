@@ -1,3 +1,7 @@
+---
+tags:
+  - Membership-package
+---
 - **Weekly Fee**: 1,500 UEC
 - **Discount**: 20% off **everything** in the RobCorp catalog
 - **Benefits**:

@@ -1,3 +1,7 @@
+---
+tags:
+  - Membership-package
+---
 - Weekly Fee**: 500 UEC
 - **Discount**: 15% off all **RobCorp** products, including coffins, memorial services, and stasis chambers
 - **Benefits**:

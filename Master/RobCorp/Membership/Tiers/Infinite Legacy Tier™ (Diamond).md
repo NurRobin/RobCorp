@@ -1,3 +1,7 @@
+---
+tags:
+  - Membership-package
+---
 - **Weekly Fee**: Invite-Only
 - **Discount**: 25% off **all purchases** for life
 - **Benefits**:
