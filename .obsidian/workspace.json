@@ -46,12 +46,8 @@
                 "id": "b64e0b52eeeebcf8",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Master/Timeline.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -137,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master/Project War Casket/Bloody Coffin Incident.md",
+                "file": "Master/Eras/Founding years/Cornelius' Coffins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master/Project War Casket/Bloody Coffin Incident.md",
+                "file": "Master/Eras/Founding years/Cornelius' Coffins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master/Project War Casket/Bloody Coffin Incident.md"
+                "file": "Master/Eras/Founding years/Cornelius' Coffins.md"
               }
             }
           }
@@ -199,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c76214fb8782964c",
+  "active": "144563b775f5627e",
   "lastOpenFiles": [
+    "Master/Eras/Timeline.md",
+    "Master/People/People.md",
     "Master/Timeline.md",
     "Master/Project War Casket/Bloody Coffin Incident.md",
     "Master/Project War Casket/Project War-Casket.md",
