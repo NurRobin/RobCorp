@@ -39,7 +39,7 @@ At RobCorp, our dual focus on **protecting your assets in life** and **preservin
 RobCorp is more than just a **transport and security service**—we are **custodians of your legacy**. From ensuring that your goods are delivered safely to ensuring that your memory endures, we offer a comprehensive range of services designed to meet the needs of **both the living and the departed**.
 
 #### **Transport and Security**  
-With a vast fleet and highly trained personnel, RobCorp offers secure, fast, and efficient **transport services** across the UEE and beyond. Whether it's a critical shipment of materials or the safe transfer of high-value assets, we ensure your cargo arrives safely, no matter the risks.
+With a vast fleet and highly trained personnel, RobCorp offers secure, fast, and efficient transport services across the UEE and beyond. Whether it's a critical shipment of materials or the safe transfer of high-value assets, we ensure your cargo arrives safely, no matter the risks. For those seeking an elevated level of service, our **[[Stellar Secure Transport Club™]]** provides exclusive membership options, offering enhanced security, discretion, and personalized support to match any transport need.
 
 #### **Coffin and Memorial Services**  
 Our roots run deep in **life preservation**. From our [[Still-Alive Package™]], which offers significant savings on pre-purchased coffins, to our **holo-memorials** that allow loved ones to preserve memories in a digital format, RobCorp offers a range of services to **preserve your legacy** in both life and death. Our [[Eternal Comfort Club™]] provides membership tiers that allow for personalized memorial experiences, ensuring that each client’s final resting place is a reflection of their life.
