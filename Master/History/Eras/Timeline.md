@@ -7,7 +7,7 @@ tags:
 	- 1888 [[A coffin for a King]]
 	- 1889 -1900 [[Expansion of Cornelius' Coffins ]]
 - 20th Century 
-	- February 1st 1933 - May 8th 1945 The big Vacation
+	- February 1st 1933 - May 8th 1945 [[The Big Vacation]]
 - 22nd Century
 	- 2125 Mars Tragedy
 - 24th Century
