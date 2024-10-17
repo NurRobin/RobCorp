@@ -3,7 +3,7 @@ tags:
   - Membership-package
 ---
 - Weekly Fee**: 500 UEC
-- **Discount**: 15% off all **RobCorp** products, including coffins, memorial services, and stasis chambers
+- **Discount**: 15% off all **[[RobCorp]]** products, including coffins, memorial services, and stasis chambers
 - **Benefits**:
     - Access to luxury coffin designs, including rare materials and high-end customization options
     - Complimentary **Legacy Memorial Planning**, which includes interactive tombstones with customizable holographic projections and personal histories

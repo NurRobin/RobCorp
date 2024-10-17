@@ -4,7 +4,7 @@ aliases:
 ---
 ### **The Man Behind the Myth**
 
-Robert Cornelius, the enigmatic founder of what would eventually become **RobCorp**, was far more than a simple coffin maker. Born in the mid-19th century, Cornelius grew up in a small German town, honing his craft as a carpenter. His early life was shaped by his talent with woodwork, which began with furniture but quickly pivoted after a tragic event shook his hometown: the **whirlwind of 1886**. In its aftermath, Robert witnessed countless victims being thrown into mass graves, a sight that struck him deeply. It was this experience that transformed him, redirecting his skills from furniture production to the creation of **coffins** — a pursuit that soon grew into something much larger.
+Robert Cornelius, the enigmatic founder of what would eventually become **[[RobCorp]]**, was far more than a simple coffin maker. Born in the mid-19th century, Cornelius grew up in a small German town, honing his craft as a carpenter. His early life was shaped by his talent with woodwork, which began with furniture but quickly pivoted after a tragic event shook his hometown: the **whirlwind of 1886**. In its aftermath, Robert witnessed countless victims being thrown into mass graves, a sight that struck him deeply. It was this experience that transformed him, redirecting his skills from furniture production to the creation of **coffins** — a pursuit that soon grew into something much larger.
 
 #### **The Whirlwind and the Founding of [[Cornelius' Coffins]]**
 
@@ -24,7 +24,7 @@ The reputation of **Cornelius' Coffins** took an ominous turn following two stra
 
 #### **[[The Walking Casket Incident]] and Project War-Casket**
 
-As Cornelius' reputation grew, so did the ambition of his projects. The strange reports of **"walking" caskets** that began surfacing in the **1890s** are believed by modern historians to be the early iterations of **Project War-Casket**. These incidents, where caskets appeared to move on their own, were dismissed by authorities at the time as mere hysteria. However, scholars now consider them a precursor to RobCorp's later advances in **AI-driven caskets** and **War-Casket technology**. Cornelius' early experiments seemed to blur the lines between life and death, and his willingness to explore such dangerous and ethically dubious territory laid the foundation for what [[RobCorp]] would become in the centuries that followed.
+As Cornelius' reputation grew, so did the ambition of his projects. The strange reports of **"walking" caskets** that began surfacing in the **1890s** are believed by modern historians to be the early iterations of **Project War-Casket**. These incidents, where caskets appeared to move on their own, were dismissed by authorities at the time as mere hysteria. However, scholars now consider them a precursor to RobCorp's later advances in **AI-driven caskets** and **War-Casket technology**. Cornelius' early experiments seemed to blur the lines between life and death, and his willingness to explore such dangerous and ethically dubious territory laid the foundation for what RobCorp would become in the centuries that followed.
 
 #### **Cornelius' Legacy: The Origins of RobCorp**
 

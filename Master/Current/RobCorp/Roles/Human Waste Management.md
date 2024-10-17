@@ -3,7 +3,7 @@
 > **Department**: Talent Acquisition & Retention
 
 ### **Mission**:
-Human Waste Management is the department responsible for acquiring and retaining only the finest talent the galaxy has to offer. At RobCorp, we know that our strength lies in the quality of our people. This role is dedicated to meticulously selecting individuals who can not only perform their duties but exceed the expectations set forth by the CEO. From logistics specialists to memorial designers, Human Waste Management ensures that the next generation of RobCorp employees is equipped with the skills, loyalty, and resolve necessary to contribute to RobCorp's enduring legacy.
+Human Waste Management is the department responsible for acquiring and retaining only the finest talent the galaxy has to offer. At [[RobCorp]], we know that our strength lies in the quality of our people. This role is dedicated to meticulously selecting individuals who can not only perform their duties but exceed the expectations set forth by the CEO. From logistics specialists to memorial designers, Human Waste Management ensures that the next generation of RobCorp employees is equipped with the skills, loyalty, and resolve necessary to contribute to RobCorp's enduring legacy.
 
 ### **Core Responsibilities**:
 

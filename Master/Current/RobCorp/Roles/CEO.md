@@ -3,7 +3,7 @@
 > **Department**: Executive Leadership
 
 ### **Mission**:
-NurRobin, the Founder and CEO of RobCorp, is the embodiment of its origin and enduring presence. This role is not one that can be assumed or achieved; it is inherent, an irreplaceable pillar that has shaped the corporation's identity. NurRobin oversees all facets of RobCorp's operations, from safeguarding high-value assets across the galaxy to ensuring client legacies are preserved with utmost reverence. He alone ensures seamless coordination across all divisions, maintains the strategic alignment with RobCorp's singular vision, and guides the evolution of our exclusive services that blend transport security with memorialization. His authority is absolute, unquestioned, and revered.
+NurRobin, the Founder and CEO of [[RobCorp]], is the embodiment of its origin and enduring presence. This role is not one that can be assumed or achieved; it is inherent, an irreplaceable pillar that has shaped the corporation's identity. NurRobin oversees all facets of RobCorp's operations, from safeguarding high-value assets across the galaxy to ensuring client legacies are preserved with utmost reverence. He alone ensures seamless coordination across all divisions, maintains the strategic alignment with RobCorp's singular vision, and guides the evolution of our exclusive services that blend transport security with memorialization. His authority is absolute, unquestioned, and revered.
 
 ### **Core Responsibilities**:
 

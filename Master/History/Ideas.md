@@ -13,7 +13,7 @@
 
 - As a German company, Cornelius' Coffins embraced the nationalistic fervor of the era and claimed to be "on vacation" during this time. Officially, all employees were sent on vacation, while unofficially, these years were used to quietly consolidate resources, lay low, and avoid scrutiny from authorities.
     
-- This period was also when **[[Propaganda Expert|Propaganda Experts]]** emerged. RobCorp used many former propaganda officers, post-1945, as part of their new public image team, turning dark experiences into effective marketing for their services.
+- This period was also when **[[Propaganda Expert|Propaganda Experts]]** emerged. Cornelius' Coffins used many former propaganda officers, post-1945, as part of their new public image team, turning dark experiences into effective marketing for their services.
     
 
 ### **Post-War Rebuilding and Rebranding (1946-1960s)**

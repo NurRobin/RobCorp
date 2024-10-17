@@ -12,7 +12,7 @@ While the bet may have been the catalyst, many believe there was more to Karl's 
 
 #### **Master of Stone and Secrets**
 
-Karl's skills went beyond his work as a stonemason. As **Cornelius' Coffins** expanded, Karl became instrumental in the creation of hidden underground workshops across Europe. These workshops were not just for crafting coffins—they also served as early **research and development** facilities for the company's more secretive endeavors, such as **[[Project War-Casket]]**. Karl's expertise in stonework was crucial in concealing these facilities, ensuring that the company's experiments remained hidden from prying eyes. His contributions allowed Cornelius' Coffins to operate in secrecy, laying the foundation for the company's future as **RobCorp**.
+Karl's skills went beyond his work as a stonemason. As **Cornelius' Coffins** expanded, Karl became instrumental in the creation of hidden underground workshops across Europe. These workshops were not just for crafting coffins—they also served as early **research and development** facilities for the company's more secretive endeavors, such as **[[Project War-Casket]]**. Karl's expertise in stonework was crucial in concealing these facilities, ensuring that the company's experiments remained hidden from prying eyes. His contributions allowed Cornelius' Coffins to operate in secrecy, laying the foundation for the company's future as **[[RobCorp]]**.
 
 #### **[[The Walking Casket Incident|The Walking Casket]] and War-Casket Projects**
 

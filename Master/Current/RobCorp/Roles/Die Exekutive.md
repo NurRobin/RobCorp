@@ -3,7 +3,7 @@
 > **Department**: Operations & Legacy Services
 
 ### **Mission**:
-Officers, known as "Die Exekutive," are the hands that execute the CEO's will throughout RobCorp's operations. They manage both the transport fleets and funeral operations, ensuring that clients' goods, as well as their memorials, arrive precisely where they need to be—on time, secure, and unblemished. The role of an Officer is not to lead, but to enforce and operationalize the unyielding directives of the CEO. Their loyalty is to be unshakable, and their dedication unquestioned.
+Officers, known as "Die Exekutive," are the hands that execute the CEO's will throughout [[RobCorp]]'s operations. They manage both the transport fleets and funeral operations, ensuring that clients' goods, as well as their memorials, arrive precisely where they need to be—on time, secure, and unblemished. The role of an Officer is not to lead, but to enforce and operationalize the unyielding directives of the CEO. Their loyalty is to be unshakable, and their dedication unquestioned.
 
 ### **Core Responsibilities**:
 

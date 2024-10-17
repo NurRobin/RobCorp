@@ -1,4 +1,8 @@
-#### Welcome to the RobCorp Family
+---
+tags:
+  - hidden
+---
+#### Welcome to the [[RobCorp]] Family
 
 Welcome aboard, esteemed team member! At RobCorp, we pride ourselves on being more than just a corporation—we are a thriving ecosystem of dedicated professionals committed to excellence in both transport and memorial services. This handbook has been thoughtfully crafted to familiarize you with our mission, culture, and the vital role you play within this intricate machine.
 

@@ -4,7 +4,7 @@
 
 ### Mission
 
-The Court Jester holds a unique and influential position within RobCorp, responsible for bridging communication gaps between clients and executives. More than just a morale booster, the Court Jester ensures smooth and effective interaction, particularly for clients involved in legacy services such as holo-memorials. By maintaining relationships, addressing concerns, and bringing a sense of reassurance to both clients and internal teams, the Court Jester is integral to fostering trust and loyalty in RobCorp’s brand.
+The Court Jester holds a unique and influential position within [[RobCorp]], responsible for bridging communication gaps between clients and executives. More than just a morale booster, the Court Jester ensures smooth and effective interaction, particularly for clients involved in legacy services such as holo-memorials. By maintaining relationships, addressing concerns, and bringing a sense of reassurance to both clients and internal teams, the Court Jester is integral to fostering trust and loyalty in RobCorp’s brand.
 
 ### Core Responsibilities
 

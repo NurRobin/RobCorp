@@ -4,7 +4,7 @@
 
 ### Mission
 
-The Men in Black represent the elite covert operatives within RobCorp, entrusted with the most delicate and high-stakes missions. These individuals are tasked with safeguarding both high-value assets and the dignified remains of interstellar dignitaries. With a unique blend of secrecy, precision, and unwavering loyalty, the Men in Black are responsible for balancing the corporation's dual objectives: secure transportation of sensitive cargo and the preservation of galactic legacies. Their presence ensures that every mission, no matter how confidential or complex, is executed flawlessly.
+The Men in Black represent the elite covert operatives within [[RobCorp]], entrusted with the most delicate and high-stakes missions. These individuals are tasked with safeguarding both high-value assets and the dignified remains of interstellar dignitaries. With a unique blend of secrecy, precision, and unwavering loyalty, the Men in Black are responsible for balancing the corporation's dual objectives: secure transportation of sensitive cargo and the preservation of galactic legacies. Their presence ensures that every mission, no matter how confidential or complex, is executed flawlessly.
 
 ### Core Responsibilities
 

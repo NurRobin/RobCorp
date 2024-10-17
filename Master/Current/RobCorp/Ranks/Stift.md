@@ -4,7 +4,7 @@
 
 ### Mission
 
-Stifts are junior members within RobCorp, taking the crucial next steps beyond the foundational rank of Cargo Boy. This role is designed to deepen operational expertise, enhance decision-making abilities, and develop leadership qualities. Stifts assist in managing smaller-scale transport missions and learn the intricacies of RobCorp's memorial services. As they refine their skills and understanding, Stifts play an instrumental role in ensuring the flawless execution of operations, positioning themselves as future leaders within the company.
+Stifts are junior members within [[RobCorp]], taking the crucial next steps beyond the foundational rank of Cargo Boy. This role is designed to deepen operational expertise, enhance decision-making abilities, and develop leadership qualities. Stifts assist in managing smaller-scale transport missions and learn the intricacies of RobCorp's memorial services. As they refine their skills and understanding, Stifts play an instrumental role in ensuring the flawless execution of operations, positioning themselves as future leaders within the company.
 
 ### Core Responsibilities
 

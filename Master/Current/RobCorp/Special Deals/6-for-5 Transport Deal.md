@@ -8,7 +8,7 @@ Take advantage of our limited-time **6-for-5 Transport Deal**—an exclusive of
 
 #### How to Redeem:
 
-Simply enroll in our **6-for-5 Transport Deal** during checkout or speak to a RobCorp representative to lock in your savings. It's that simple!
+Simply enroll in our **6-for-5 Transport Deal** during checkout or speak to a [[RobCorp]] representative to lock in your savings. It's that simple!
 
 _Terms and conditions apply. Offer valid for standard shipments only. Excludes high-security and specialized cargo. All shipments must be booked within 12 months of initial purchase. Subject to jurisdictional approval and capacity restrictions._
 

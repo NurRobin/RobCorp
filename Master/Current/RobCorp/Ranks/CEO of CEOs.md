@@ -4,7 +4,7 @@
 
 ### Mission
 
-The CEO of CEOs represents the pinnacle of leadership within RobCorp, serving as the ultimate authority in both strategic decision-making and operational oversight. This individual coordinates all interstellar security contracts and memorial operations, seamlessly blending the roles of protector and preserver. With unmatched vision and strategic acumen, the CEO of CEOs sets the direction for RobCorp, ensuring that the corporation's values, ambitions, and legacy remain unchallenged across the galaxy. This role embodies the dual mission of safeguarding high-value assets while orchestrating galaxy-class memorial services, positioning RobCorp as the undisputed leader in both logistics and legacy preservation.
+The CEO of CEOs represents the pinnacle of leadership within [[RobCorp]], serving as the ultimate authority in both strategic decision-making and operational oversight. This individual coordinates all interstellar security contracts and memorial operations, seamlessly blending the roles of protector and preserver. With unmatched vision and strategic acumen, the CEO of CEOs sets the direction for RobCorp, ensuring that the corporation's values, ambitions, and legacy remain unchallenged across the galaxy. This role embodies the dual mission of safeguarding high-value assets while orchestrating galaxy-class memorial services, positioning RobCorp as the undisputed leader in both logistics and legacy preservation.
 
 ### Core Responsibilities
 

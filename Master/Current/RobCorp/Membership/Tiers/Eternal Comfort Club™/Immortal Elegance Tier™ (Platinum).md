@@ -3,7 +3,7 @@ tags:
   - Membership-package
 ---
 - **Weekly Fee**: 1,500 UEC
-- **Discount**: 20% off **everything** in the RobCorp catalog
+- **Discount**: 20% off **everything** in the [[RobCorp]] catalog
 - **Benefits**:
     - **VIP coffin customization** with the rarest materials and **AI-preserved engravings** that adapt to future trends
     - Access to exclusive **Stasis Coffins** that offer advanced life preservation for deep-space travelers

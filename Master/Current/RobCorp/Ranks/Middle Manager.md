@@ -4,7 +4,7 @@
 
 ### Mission
 
-Middle Managers at RobCorp are the backbone of day-to-day operations, handling logistical challenges to ensure the seamless transportation of both high-value goods and personalized memorial items. These individuals coordinate between ranks, ensuring that directives from higher authorities are implemented effectively, while managing the practical details of each mission. Middle Managers guarantee that every aspect of transport and memorial services is executed to perfection, embodying RobCorp’s commitment to operational excellence and reliability.
+Middle Managers at [[RobCorp]] are the backbone of day-to-day operations, handling logistical challenges to ensure the seamless transportation of both high-value goods and personalized memorial items. These individuals coordinate between ranks, ensuring that directives from higher authorities are implemented effectively, while managing the practical details of each mission. Middle Managers guarantee that every aspect of transport and memorial services is executed to perfection, embodying RobCorp’s commitment to operational excellence and reliability.
 
 ### Core Responsibilities
 

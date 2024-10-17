@@ -4,7 +4,7 @@
 
 ### Mission
 
-Cargo Boys are the foundation upon which RobCorp's operational efficiency is built. As the entry-level rank within RobCorp, Cargo Boys take their first steps towards understanding the complexities of galactic transport and the intricacies of our memorial services. This role is designed to instill discipline, attention to detail, and a deep understanding of the company’s ethos. Cargo Boys are tasked with ensuring that all aspects of transport and logistics operate smoothly, both for cargo deliveries and memorial arrangements, under the guidance of higher-ranking officers.
+Cargo Boys are the foundation upon which [[RobCorp]]'s operational efficiency is built. As the entry-level rank within RobCorp, Cargo Boys take their first steps towards understanding the complexities of galactic transport and the intricacies of our memorial services. This role is designed to instill discipline, attention to detail, and a deep understanding of the company’s ethos. Cargo Boys are tasked with ensuring that all aspects of transport and logistics operate smoothly, both for cargo deliveries and memorial arrangements, under the guidance of higher-ranking officers.
 
 ### Core Responsibilities
 

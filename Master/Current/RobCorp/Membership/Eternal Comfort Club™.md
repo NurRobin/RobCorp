@@ -2,7 +2,7 @@ Introducing the **Eternal Comfort Club™**, an exclusive tiered membership prog
 
 ### **Why Join the Eternal Comfort Club™?**
 
-When it comes to planning for the future, the Eternal Comfort Club™ is more than just a membership—it’s an investment in how you will be remembered. We take care of every detail so that you and your loved ones can rest assured knowing your legacy is in the best hands. With our commitment to bespoke memorial services and an unwavering dedication to honoring your life, RobCorp ensures that every wish is fulfilled to perfection.
+When it comes to planning for the future, the Eternal Comfort Club™ is more than just a membership—it’s an investment in how you will be remembered. We take care of every detail so that you and your loved ones can rest assured knowing your legacy is in the best hands. With our commitment to bespoke memorial services and an unwavering dedication to honoring your life, [[RobCorp]] ensures that every wish is fulfilled to perfection.
 
 From guaranteed memorial planning to exclusive access to RobCorp’s galaxy-class events, each tier unlocks special privileges that bring comfort, distinction, and elegance to the journey beyond.
 
