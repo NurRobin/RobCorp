@@ -1,0 +1,1 @@
+The Archives of RobCorp are a place of mysteries there is only one known person in existence who has a complete grasp of their structure, the [[Grand Archivist]]. 
