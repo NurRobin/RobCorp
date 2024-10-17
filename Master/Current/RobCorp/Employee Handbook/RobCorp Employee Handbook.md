@@ -16,7 +16,7 @@ RobCorp aspires to redefine the boundaries of transport and memorial services, c
 
 - **[[CEO of CEOs]]**: Our visionary leader, ensuring every operational aspect reflects RobCorp's immense potential, master of both protection and preservation.
     
-- **[[Court Jester]]**: Trusted advisors assisting the CEO in strategic planning. The bridge of communication, facilitating cohesion and delivering executive directives across all departments.
+- **[[Court Jester]]**: [[REDACTED]]
     
 - **[[Middle Manager]]**: Handling logistics from goods transport to personalized memorial service planning, ensuring seamless operations.
     
