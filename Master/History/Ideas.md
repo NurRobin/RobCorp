@@ -1,3 +1,7 @@
+---
+tags:
+  - hidden
+---
 ## **Expanded Timeline and Ideas**
 
 ### **1900 to 22nd Century: Early Expansion, Government Ties, and Interstellar Ventures**
