@@ -1,52 +1,112 @@
-**Timeline Expansion: 1900 to 22nd Century**
+#### **1900 to 22nd Century: Early Expansion, Government Ties, and Interstellar Ventures**
 
-### **Early 20th Century (1900-1930s): Underground Expansion**
+**1900-1930s: Underground Expansion**
 
-- After expanding across the German Empire, **[[Cornelius' Coffins]]** began to diversify. During this period, they made significant investments in discreet, underground operations—creating hidden facilities dedicated to R&D and secret projects like **[[Project War-Casket]]**.
+- After expanding across the German Empire, **[[Cornelius' Coffins]]** diversified, investing in discreet underground facilities dedicated to R&D, enabling hidden projects like **[[Project War-Casket]]**.
     
-- These facilities were scattered across Europe, hidden in basements beneath legitimate coffin-making workshops. This allowed the company to work on early experiments in secret and test prototypes away from prying eyes.
-    
-- **Partnerships with Shady Institutions**: During the years leading up to 1939, the company was rumored to have dealings with less-than-ethical scientific groups interested in human experimentation, laying the foundation for their dark technological pursuits.
+- These hidden facilities were scattered across Europe and allowed early testing of prototypes and experiments away from public scrutiny.
     
 
-### **“[[The Big Vacation]]” (1933-1945)**
+**1933-1945: "[[The Big Vacation]]"**
 
-- As a German company, Cornelius' Coffins embraced the nationalistic fervor of the era and claimed to be "on vacation" during this time. Officially, all employees were sent on vacation, while unofficially, these years were used to quietly consolidate resources, lay low, and avoid scrutiny from authorities.
+- Officially, Cornelius' Coffins claimed all employees were "on vacation," while they consolidated resources and laid low during turbulent times. This was a strategic low-profile period to avoid scrutiny from wartime authorities.
     
-- This period was also when **[[Propaganda Expert|Propaganda Experts]]** emerged. Cornelius' Coffins used many former propaganda officers, post-1945, as part of their new public image team, turning dark experiences into effective marketing for their services.
-    
-
-### **Post-War Rebuilding and Rebranding (1946-1960s)**
-
-- **Government Contracts**: Following "The Big Vacation," **Cornelius' Coffins** took a new direction—entering the government sector. During this transition, the company rebranded itself as **[[RobCorp]]** to reflect its expanding role beyond traditional funeral services. They began supplying **[[Stasis Coffins]]** for use in government-run secret projects and underground bunkers. These coffins could keep individuals in suspended animation—a technology that laid the groundwork for interstellar stasis during future space travel.
-    
-- **Shifting Public Perception**: During this period, RobCorp began to rebrand itself as a provider of cutting-edge life preservation technologies, shedding its purely funerary image in favor of high-tech solutions for the future. The **Propaganda Experts** played a key role in crafting this transformation.
+- During this time, many propaganda officers emerged and later became **[[Propaganda Expert|Propaganda Experts]]** within Cornelius' Coffins, reshaping the company’s image after 1945.
     
 
-### **Cold War Era and Technological Development (1960s-1980s)**
+**1946: Rebranding to [[RobCorp]]**
 
-- **Containment Units for Intelligence Agencies**: During the Cold War, **RobCorp** capitalized on heightened tensions by forming contracts with intelligence agencies to build “containment units” under the guise of specialized coffins, intended for long-term storage of high-value personnel or captured spies. This period saw an expansion of their containment technology, paving the way for future advancements.
-    
-- **Early Automation and Control Systems**: While full AI was not yet feasible, **RobCorp** began experimenting with early automation and control systems that could maintain life-support functions autonomously. These rudimentary systems were the first steps toward the sophisticated **AI-driven caskets** that would later emerge.
+- With the war over, **Cornelius' Coffins** rebranded to **RobCorp** to shift focus towards government contracts. This marked a significant transformation into a company with a dual focus: providing stasis technology for suspended animation and expanding into government services.
     
 
-### **Space Age Ventures and Advanced R&D (1980s-2000s)**
+**1946-1970s: Post-War Government Contracts**
 
-- **Entering the Space Age**: As space exploration advanced, **RobCorp** saw an opportunity to enter the aerospace sector. They began investing in R&D for **Stasis Coffins** that could be used for long-duration space missions, aligning with government and private space programs to develop technologies for future space travel.
+- **[[Stasis Coffins]]** were used in government-run projects, including secret underground bunkers. These were pivotal in developing technologies that would lay the foundation for future interstellar stasis.
     
-- **Prototype Testing**: During the late 1990s, early prototypes of **Stasis Coffins** were tested, focusing on keeping astronauts in stasis during extended missions. These prototypes laid the groundwork for interstellar stasis solutions that would later become a cornerstone of RobCorp's offerings.
-    
-
-### **Toward Interstellar Expansion (2000s-2100)**
-
-- **AI Integration**: In the early 21st century, advancements in computing allowed **RobCorp** to integrate AI more effectively into their products. By the 2050s, **AI-driven caskets** capable of maintaining physical functions and monitoring the health of individuals in stasis became commercially viable, setting the stage for their use in both governmental and civilian applications.
-    
-- **Government and Commercial Contracts**: Throughout the 21st century, **RobCorp** secured lucrative contracts with space agencies and private companies, further expanding their influence and solidifying their role in the burgeoning interstellar economy.
+- RobCorp also gained traction during the **Cold War**, providing containment units for intelligence agencies under the guise of specialized coffins. These units were used for storing high-value personnel or captured spies, accelerating RobCorp’s **AI-driven casket** technology.
     
 
-### **Early Space Ventures (22nd Century)**
+**1980s-2000s: Preparing for Space**
 
-- As the first Martian colonies emerged, **RobCorp** began offering **Time Capsule Memorials** to preserve legacies beyond Earth. The **[[Mars Tragedy of 2125]]** led to the company becoming involved in interplanetary body recovery and legacy preservation, cementing its transition from Earth-based operations to interstellar activities.
+- RobCorp used its Cold War expertise to partner with emerging space programs. With technologies like the **AI containment units**, they adapted their expertise to support early space exploration.
+    
+- **1992: Kuiper Belt Discovered** – RobCorp used new data to plan future missions and investments, sensing commercial opportunities in expanding human activities to the outer edges of the solar system.
+    
+
+**2038: Founding of Roberts Space Industries**
+
+- **Roberts Space Industries (RSI)** was founded by **Chris Roberts**. RobCorp began a discreet partnership with RSI, focusing on technologies to support quantum drives and stasis solutions.
+    
+
+**2075: Invention of Quantum Drive**
+
+- Dr. Scott Childress and his team at RSI developed the first self-sustaining quantum drive. RobCorp worked with RSI to ensure their **Stasis Coffins** could be adapted for quantum space travel, cementing their role in early interstellar expeditions.
+    
+
+#### **22nd Century: Interstellar Ventures and [[Mars Tragedy of 2125|Mars Tragedy]]**
+
+**2120-2125: Mars Terraforming and the Great Mars Tragedy**
+
+- RobCorp played a role in the initial terraforming attempts of Mars by providing **[[Time Capsule Memorials]]**, marketed to preserve the memories of early settlers. This positioned RobCorp as a key player in legacy preservation beyond Earth.
+    
+- On **September 13, 2125**, the **Mars Tragedy** occurred, leading to the suffocation of 4,876 workers due to a failure in the atmospheric processors. RobCorp was involved in the aftermath, providing body recovery services and memorializing the lost pioneers, further strengthening their grip in interplanetary operations.
+    
+
+**2137: RSI's First Successful Starship Test**
+
+- RobCorp provided stasis units for **RSI Zeus** prototypes, marking their first major contract involving starship travel. Their stasis technology was essential for deep-space exploration and ensuring crew survival during extended missions.
+    
+
+**2157: Successful Terraforming of Mars**
+
+- Mars was declared successfully terraformed. RobCorp's **Time Capsule Memorials** became iconic as settlers celebrated the success of the terraforming project. This milestone solidified RobCorp's image as both a technological pioneer and a leader in commemorative services.
+    
+
+#### **24th Century: Unification Wars and Galactic Influence**
+
+**2380-2384: The Unification Wars**
+
+- During the **Unification Wars**, RobCorp leveraged its **[[Stellar Secure Transport Club™]]** to provide discreet transportation solutions for diplomats and key figures across war-torn planetary systems. Their **Time Capsule Memorials** were used as tools of propaganda, preserving the legacies of fallen heroes and helping shape public sentiment.
+    
+- RobCorp's involvement in both transport logistics and life preservation made them indispensable to multiple factions, allowing the company to profit from the wars while also gaining significant political leverage in the newly unified galaxy.
+    
+
+#### **25th Century: Expansion into Interstellar Markets**
+
+**2438: First Contact with the Banu**
+
+- RobCorp was one of the first companies to offer **legacy preservation** services for interspecies diplomacy. **Time Capsule Memorials** were offered to commemorate the historic first contact between humanity and the **Banu**, marking RobCorp's entrance into the interstellar market.
+    
+
+**2460: Terraformed Expansion and Overcrowding on Earth**
+
+- As new territories opened up, RobCorp offered affordable memorials for settlers leaving Earth. Their **Stasis Coffins** were also adapted for long-haul transport, ensuring safe passage for settlers venturing to new frontiers.
+    
+
+#### **Late 25th to 26th Century: The Messer Era**
+
+**2545-2792: The Messer Era**
+
+- During this time, RobCorp was closely linked with the **United Empire of Earth (UEE)**. They provided containment and stasis technologies for high-ranking officials and influential figures, playing a crucial role in maintaining order across the expanding UEE.
+    
+- **Operation Nemesis (2544)**: RobCorp provided covert support during key military operations, with stasis units ensuring the preservation of key military personnel. This connection to the military further entrenched RobCorp as a critical player in galactic politics.
+    
+
+**2789: Peace with Xi'an Empire**
+
+- RobCorp capitalized on the newfound peace with the **Xi'an** by introducing **Time Capsule Memorials** to celebrate diplomatic achievements. Their propaganda experts used this opportunity to shift the company's public image from a war-time necessity to a symbol of unity and peace.
+    
+
+#### **29th Century: Vanduul Wars and Corporate Growth**
+
+**2871: The Fall of Caliban**
+
+- During the Vanduul raids on **Caliban**, RobCorp provided emergency evacuation services for key personnel, using their **Stasis Coffins** to transport them safely out of danger zones. This act helped establish their reputation for reliability, even in the face of extreme threats.
+    
+
+**2792-2872: Project Archangel**
+
+- As part of the **SynthWorld Project**, RobCorp contributed by providing **containment and stasis technologies** to assist with the transformation of a lifeless rock into a habitable world. This ambitious endeavor was seen as the current era's legacy, with RobCorp positioned at the forefront of technology and life preservation.
 
 ---
 
