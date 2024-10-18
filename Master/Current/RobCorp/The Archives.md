@@ -13,3 +13,7 @@ Rumors inside the Company have it that **The Archives** house not only the secre
 The location of **The Archives** isn't precisely known to the public, the general consensus is that the archives are located at RobCorp HQ since anyone going to **The Archives** is going through HQ and coming back out through HQ. But scans of HQ don't show the necessary space **The Archives** would take up in the head quarters.  These scans were obtained by the organization known as the **[[Black Flag Mercenary Group]]**. Tis group is known for their business practices bordering on the realm of legality.
 
 After scans of the RobCorb have gotten out the covert vessels which initiated the scan suddenly vanished. These ships appeared 6 days later at the HQ of the **[[Black Flag Mercenary Group]]** devoid of any lifeforms and completely filled with blood. For more detailed information see **[[REDACTED]]**. 
+
+>Note from the **Grand Archivist**:
+>	The Black flag Mercenary Group fucked around and found out, quite simple
+>
