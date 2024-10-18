@@ -78,6 +78,9 @@ H1ryu’s inexplicable survival and the newfound connection between him and Die 
 
 - *"NurRobin sends me these broken tools as if they are disposable... but sometimes even broken things can cut deeper than precision instruments."*
 
+- "You know I granted him access to the Archives, but do you know what he does when he gets in to the archives? He sleeps! It's quite baffling, he sleeps in no search of knowledge yet the archives grant him the wisdom to crush planets."
+
+
 *(It is clear from these notes that Die Rote Sonne views H1ryu as something more than a mere employee—perhaps even a curiosity worthy of further observation.)*
 
 ---
