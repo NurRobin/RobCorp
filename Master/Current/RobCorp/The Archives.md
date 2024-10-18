@@ -5,8 +5,8 @@ Further Examination of the reports from **The Archives** revealed that not only 
 
 The reason these other more obscure forms of **The Archives** were discovered so late is because they are very rare among the reports of **The Archives**. This sparked a discussion about the **TRUE** form of the library. This debate drove many people to insanity.
 
-Note from the Grand Archivist;
-	"It's quite funny seeing these fools bickering about something they'll never understand in a hundred lifetimes." 
+>Note from the **Grand Archivist**:
+	"It's quite funny seeing these fools bickering about something they'll never understand in hundred lifetimes." 
 
 Rumors inside the Company have it that **The Archives** house not only the secrets of the company but secrets from all over the Universe, leading some to believe that **Die Rote Sonne** has their eyes and ears everywhere as well as being involved in most major incidents across the universe. Some even go as far as to believe that **Die Rote Sonne** controls the universe at large. Most of these people are of the utterly insane type. Whilst some of those people managed to get into positions of minor significance those vanished without fail after assuming their office. 
 
