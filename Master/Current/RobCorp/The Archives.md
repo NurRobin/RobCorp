@@ -15,5 +15,5 @@ The location of **The Archives** isn't precisely known to the public, the genera
 After scans of the RobCorb have gotten out the covert vessels which initiated the scan suddenly vanished. These ships appeared 6 days later at the HQ of the **[[Black Flag Mercenary Group]]** devoid of any lifeforms and completely filled with blood. For more detailed information see **[[REDACTED]]**. 
 
 >Note from the **Grand Archivist**:
->	The Black flag Mercenary Group fucked around and found out, quite simple
+>	"The Black flag Mercenary Group fucked around and found out, quite simple"
 >
