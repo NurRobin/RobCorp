@@ -19,9 +19,18 @@ The Archives of RobCorp are a place of mysteries there is only one known person 
 
 ## Layout
 
-Further Examination of the reports from **The Archives** revealed that not only do the corridors shift but the structure itself seems to change. Some claim **The Archives** to be a grand library, others claim to have seen a sterile white room which shows you what you need, others yet again claim to have been in a suburban slum and finally the most perplexing recorded shape has to be the sphere. No one quite knows what the sphere is, records suggest it's a dark space where no known laws of the universe applies. Apparently information just starts manifesting in your mind.
+Under orders of the [[Grand Archivist]] the actual layout of **The Archives** are being kept secret. This doesn't mean there aren't any reports of the layout. Although these reports cannot be trusted completely especially considering their contradictory nature in and of itself. 
 
-The reason these other more obscure forms of **The Archives** were discovered so late is because they are very rare among the reports of **The Archives**. This sparked a discussion about the **TRUE** form of the library. This debate drove many people to insanity.
+### Three extracted structures
+ There have been three main structures which could be extracted from the reports that made their way onto the galactic stage. These have been named **The Library**, **The Garden of Truth** and **The sphere of madness**. It is not confirmed if there is a **TRUE** form of **The Archives** but these three are the most prevalent forms in reports concerning the inner layout of **The Archives**.
+
+#### The Library 
+
+**The Library** is the most ordinary of the three layouts, at least as normal as **The Archives** can be considered "normal". The library consists of a seemingly endless amount of corridors filled to the brim with books. These corridors seem to be ever shifting in at least three dimensions.
+
+#### The Garden of Truth
+
+
 
 >Note from the **Grand Archivist**:
 	"It's quite funny seeing these fools bickering about something they'll never understand in hundred lifetimes." 
