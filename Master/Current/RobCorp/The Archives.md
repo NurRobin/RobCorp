@@ -12,7 +12,6 @@
 
 ## Overview
 
-
 The Archives of RobCorp are a place of mysteries there is only one known person in existence who has a complete grasp of their structure, the [[Grand Archivist]].  Some reports of the inner structure made their way into the broader universe. These reports have sparked quite a bit of interest in those wishing to get glimpses into the more secretive truths of the universe. The attempts to peer into the layout were all thwarted by the fact that all of the reports never shared even one identical corridor, not even the entrance. It is currently unknown if these differences are due to some sort of memory tampering, some kind of powerful illusion or if the archives keep constantly shifting which could be realistic  considering the personality of the ever so enigmatic [[Grand Archivist]]. 
 
 ---
@@ -37,10 +36,12 @@ Under orders of the [[Grand Archivist]] the actual layout of **The Archives** ar
 
 Whilst the other two instances of **The Archives** where harmless to the ones visiting **The Sphere of Madness** drives the ones who've seen it to the brink of sanity and in most cases **The Sphere** breaks the mind completely. It is unknown if this has something to do with **The Sphere** itself or with the knowledge one gets imparted with when being pulled into it's realm.  
 
+### Speculations
 
+**The Archives** enshrouded in so many secrets that not many institutions cam compete.  Whilst there are speculations of all kinds flowing around most of them agree i one point. **The Archives** are far more than they appear to be. Some of the greatest minds have tried to make sense of them and failed. Some believe **The Archives** to be some kind of doorway to higher dimensions and with that the [[Grand Archivist]] to be some avatar of a being living a higher dimension. [[RobCorp|RobCorp's]] own [[Propaganda Expert|Propaganda Expert's]] are officially ignoring these theories as they are still unsure on how to deal with them properly to increase [[RobCorp|RobCorp's]] revenue. some more religious inclined groups believe **The Archives** to be either some kind of Holy Land or the temptation of the Devil. There have even been some minor incidents involving these groups with a few dozen dead people. (More business for [[RobCorp]]) 
 
 >Note from the **Grand Archivist**:
-	"It's quite funny seeing these fools bickering about something they'll never understand in hundred lifetimes." 
+	"It's quite funny seeing these fools bickering about something they'll never understand in a hundred lifetimes." 
 
 ---
 
