@@ -1,4 +1,4 @@
-### **RobCorp Employee Dossier: Die Rote Sonne**
+### **RobCorp "Employee" Dossier: Die Rote Sonne**
 
 ---
 
@@ -93,7 +93,7 @@ Despite his detachment from the corporate world, his influence is immense. He al
   "*Control? A laughable illusion. History cannot be controlled—it can only be preserved or erased. I’ll allow neither tampering nor ignorance within my walls.*"
 
 - **Random Employee Rumor**:  
-  "*I heard Die Rote Sonne *is* The Archives—like some kind of living extension of them. If you try to mess with the records…well, you don’t come back.*"
+  "I heard Die Rote Sonne is The Archives—like some kind of living extension of them. If you try to mess with the records…well, you don’t come back."
 
 ---
 
