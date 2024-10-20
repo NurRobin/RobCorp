@@ -1,5 +1,5 @@
 
-# [[RobCorp]] Organization File: The Archives
+# [[RobCorp]] Department File: The Archives
 
 >Location: RobCorp Headquarters ([[REDACTED|unknown]])
 >Founding: [[REDACTED]]
@@ -22,13 +22,20 @@ The Archives of RobCorp are a place of mysteries there is only one known person 
 Under orders of the [[Grand Archivist]] the actual layout of **The Archives** are being kept secret. This doesn't mean there aren't any reports of the layout. Although these reports cannot be trusted completely especially considering their contradictory nature in and of itself. 
 
 ### Three extracted structures
- There have been three main structures which could be extracted from the reports that made their way onto the galactic stage. These have been named **The Library**, **The Garden of Truth** and **The sphere of madness**. It is not confirmed if there is a **TRUE** form of **The Archives** but these three are the most prevalent forms in reports concerning the inner layout of **The Archives**.
+
+ There have been three main structures which could be extracted from the reports that made their way onto the galactic stage. These have been named **The Library**, **The Garden of Truth** and **The Sphere of Madness**. It is not confirmed if there is a **TRUE** form of **The Archives** but these three are the most prevalent forms in reports concerning the inner layout of **The Archives**.
 
 #### The Library 
 
 **The Library** is the most ordinary of the three layouts, at least as normal as **The Archives** can be considered "normal". The library consists of a seemingly endless amount of corridors filled to the brim with books. These corridors seem to be ever shifting in at least three dimensions.
 
 #### The Garden of Truth
+
+**The Garden of Truth** looks like a meticulously cared for garden world. Throughout these sprawling gardens there are various small auditoriums were speakers impart specific knowledge. Of note is the fact that no one ever heard any lecturer they weren't supposed to, as if there were force fields blocking out the sounds.  
+
+#### The Sphere of Madness
+
+Whilst the other two instances of **The Archives** where harmless to the ones visiting **The Sphere of Madness** drives the ones who've seen it to the brink of sanity and in most cases **The Sphere** breaks the mind completely. It is unknown if this has something to do with **The Sphere** itself or with the knowledge one gets imparted with when being pulled into it's realm.  
 
 
 
