@@ -45,12 +45,27 @@ Whilst the other two instances of **The Archives** where harmless to the ones vi
 
 ---
 
-## 
-Rumors inside the Company have it that **The Archives** house not only the secrets of the company but secrets from all over the Universe, leading some to believe that **Die Rote Sonne** has their eyes and ears everywhere as well as being involved in most major incidents across the universe. Some even go as far as to believe that **Die Rote Sonne** controls the universe at large. Most of these people are of the utterly insane type. Whilst some of those people managed to get into positions of minor significance those vanished without fail after assuming their office. 
+## Capabilities 
+
+Rumors going around the corridors of [[RobCorp]] suggest that the archives reach even beyond the reaches of the organization. The most outrageous of these rumors go as far as to suggest that [[Die Rote Sonne]] knows all that is happening within the human domain and even beyond.  Some extremists even believe **The Archives** to be involved in a multitude of political assassinations and inciting of revolts on a major scale. Though these allegations are widely known their was never an investigation since any and all investigations have been halted through unknown means.
+
+>Note from the CEO:
+>	"At this pointed I've given up on understanding **The Archives** and anything associated with them. They are not reducing our profit margins so it's not worth the headache."
+
+---
+
+## The [[Black Flag Mercenary Group]] Incident
+
+
+
+>Note from the **Grand Archivist**:
+	"The Black flag Mercenary Group fucked around and found out, quite simple"
+
+--- 
+
+
 
 The location of **The Archives** isn't precisely known to the public, the general consensus is that the archives are located at RobCorp HQ since anyone going to **The Archives** is going through HQ and coming back out through HQ. But scans of HQ don't show the necessary space **The Archives** would take up in the head quarters.  These scans were obtained by the organization known as the **[[Black Flag Mercenary Group]]**. Tis group is known for their business practices bordering on the realm of legality.
 
 After scans of the RobCorb have gotten out the covert vessels which initiated the scan suddenly vanished. These ships appeared 6 days later at the HQ of the **[[Black Flag Mercenary Group]]** devoid of any lifeforms and completely filled with blood. For more detailed information see **[[REDACTED]]**. 
 
->Note from the **Grand Archivist**:
-	"The Black flag Mercenary Group fucked around and found out, quite simple"
