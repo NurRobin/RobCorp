@@ -62,3 +62,5 @@ With the mysteries surrounding **The Archives** there came many profiteers that 
 	"The Black flag Mercenary Group fucked around and found out, quite simple"
 
 --- 
+
+# Reports from the unaffiliated News outlet
