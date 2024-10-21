@@ -45,6 +45,7 @@ Whilst the other two instances of **The Archives** where harmless to the ones vi
 
 ---
 
+## 
 Rumors inside the Company have it that **The Archives** house not only the secrets of the company but secrets from all over the Universe, leading some to believe that **Die Rote Sonne** has their eyes and ears everywhere as well as being involved in most major incidents across the universe. Some even go as far as to believe that **Die Rote Sonne** controls the universe at large. Most of these people are of the utterly insane type. Whilst some of those people managed to get into positions of minor significance those vanished without fail after assuming their office. 
 
 The location of **The Archives** isn't precisely known to the public, the general consensus is that the archives are located at RobCorp HQ since anyone going to **The Archives** is going through HQ and coming back out through HQ. But scans of HQ don't show the necessary space **The Archives** would take up in the head quarters.  These scans were obtained by the organization known as the **[[Black Flag Mercenary Group]]**. Tis group is known for their business practices bordering on the realm of legality.
