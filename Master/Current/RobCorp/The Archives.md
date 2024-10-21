@@ -56,16 +56,9 @@ Rumors going around the corridors of [[RobCorp]] suggest that the archives reach
 
 ## The [[Black Flag Mercenary Group]] Incident
 
-
-
+With the mysteries surrounding **The Archives** there came many profiteers that tried to get a scan of **The Archives** in order to make some quick money or just to satiate their curiosity. Whilst there weren't many that made it past initial screening of [[RobCorp]] security only one organization managed to get two ships to actually scan **The Archives**. They barely managed to send their records to a remote relay station when the ships disappeared. The scans themselves were quite horrifying, the scans revealed there to be nothing were **The Archives** should be located based on the rumors. The ships themselves reappeared, after six days of being MIA, in front of the flagship of the [[Black Flag Mercenary Group|BFMG]]. This prompted an immediate investigation by the [[Black Flag Mercenary Group|BFMG]]. According to their publicized records no scanners were able to penetrate the hull. Once an investigation team made it on board of the ships they only discovered these ships to be completely filled with blood. 
+ 
 >Note from the **Grand Archivist**:
 	"The Black flag Mercenary Group fucked around and found out, quite simple"
 
 --- 
-
-
-
-The location of **The Archives** isn't precisely known to the public, the general consensus is that the archives are located at RobCorp HQ since anyone going to **The Archives** is going through HQ and coming back out through HQ. But scans of HQ don't show the necessary space **The Archives** would take up in the head quarters.  These scans were obtained by the organization known as the **[[Black Flag Mercenary Group]]**. Tis group is known for their business practices bordering on the realm of legality.
-
-After scans of the RobCorb have gotten out the covert vessels which initiated the scan suddenly vanished. These ships appeared 6 days later at the HQ of the **[[Black Flag Mercenary Group]]** devoid of any lifeforms and completely filled with blood. For more detailed information see **[[REDACTED]]**. 
-
