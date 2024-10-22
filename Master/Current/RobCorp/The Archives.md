@@ -63,4 +63,8 @@ With the mysteries surrounding **The Archives** there came many profiteers that 
 
 --- 
 
-# Reports from the unaffiliated News outlet
+# Reports from unaffiliated News outlets
+
+Panic Pulse //Doom 
+The Outer Rim Conspiracy Chronicle //very conspiracy
+Celestial Watchers //religious fanatics
