@@ -5,7 +5,7 @@
 >Founding: [[REDACTED]]
 >Scale: [[REDACTED]]
 >Influence: [[REDACTED]]
->Military Force: existent
+>Military Force: [[REDACTED]]
 >Threat level: **ABSOLUTE**
 
 ---

@@ -1,4 +1,4 @@
-# **[[RobCorp]] Personnel File: H1ryu**
+# **[[RobCorp]] Employee File: H1ryu**
 
 **Employee ID**: [[REDACTED]]  
 **Current Position**: [[Middle Manager]], [[Human Waste Management]] & Executive Operative ("[[Die Exekutive]]")  
