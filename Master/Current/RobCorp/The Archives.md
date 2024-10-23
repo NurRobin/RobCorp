@@ -66,5 +66,13 @@ With the mysteries surrounding **The Archives** there came many profiteers that 
 # Reports from unaffiliated News outlets
 
 Panic Pulse //Doom 
+## Is Doomsday upon us? Reports from The Archives /Panic Pulse
+
+
 The Outer Rim Conspiracy Chronicle //very conspiracy
+
+## This is how we are being controlled!  /The Outer Rim Conspiracy Chronicle
+
 Celestial Watchers //religious fanatics
+
+## The Portal to salvation / Celestial watchers
