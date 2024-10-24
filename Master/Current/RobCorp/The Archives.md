@@ -1,7 +1,7 @@
 
 # [[RobCorp]] Department File: The Archives
 
->Location: RobCorp Headquarters ([[REDACTED|unknown]])
+>Location: RobCorp Headquarters ([[REDACTED]])
 >Founding: [[REDACTED]]
 >Scale: [[REDACTED]]
 >Influence: [[REDACTED]]
