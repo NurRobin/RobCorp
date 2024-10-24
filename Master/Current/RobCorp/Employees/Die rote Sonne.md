@@ -1,14 +1,13 @@
-# **RobCorp "Employee" File: Die Rote Sonne**
+# **[[RobCorp]] "Employee" File: Die Rote Sonne**
 
 ---
 
 >**Full Name**: Unknown  
-**Alias**: Die Rote Sonne  
-**Title**: Grand Archivist of RobCorp  
- **Department**: [[The Archives]] (Isolated Division)  
-**Clearance Level**: Absolute (Self-Governing)  
-**Current Status**: Active  
-**Reports To**: No direct superior, operates independently of the corporate hierarchy
+>**Title**: Grand Archivist of RobCorp
+>**Department**: [[The Archives]] (Isolated Division)  
+>**Clearance Level**: Absolute (Self-Governing)  
+>**Current Status**: Active  
+>**Reports To**: No direct superior, operates independently of the corporate hierarchy
 
 ![[Die rote Sonne.webp]]
 
