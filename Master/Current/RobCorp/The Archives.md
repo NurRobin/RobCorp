@@ -65,15 +65,36 @@ With the mysteries surrounding **The Archives** there came many profiteers that 
 
 # Reports from unaffiliated News outlets
 
-## Is Doomsday upon us? Reports from The Archives /Panic Pulse
+## Panic Pulse
 
+**Is Doomsday Upon Us? Reports from The Archives**
 
+As whispers of the enigmatic **Archives** of [[RobCorp]] spread like wildfire through the galaxy, a wave of panic has gripped the populace. The recently unearthed details about this mysterious institution have left many questioning their safety and the very nature of reality itself. Eyewitness accounts describe a bizarre and unsettling atmosphere, where the boundaries between knowledge and madness blur into a chilling void.
 
-The Outer Rim Conspiracy Chronicle //very conspiracy
+For years, the existence of the **[[Grand Archivist]]** has been shrouded in speculation. Reports suggest that individuals who venture too close to the **Archives** often vanish without a trace, as if absorbed by the very fabric of the place. In recent weeks, bizarre incidents linked to the **Archives** have surged, with individuals claiming to have encountered nightmarish visions that challenge the sanity of even the strongest minds.
 
-## This is how we are being controlled!  /The Outer Rim Conspiracy Chronicle
+Moreover, rumors suggest that the **Archives** serve as a nexus for dark forces, exerting control over the fates of countless beings. Are these reports mere fiction, or do they hint at a greater truth? The fear is palpable: could the **Archives** be a harbinger of doom, a sinister force pulling the strings from the shadows? The questions remain unanswered, and the public is left to grapple with the implications of an unseen threat looming on the horizon.
 
-Celestial Watchers //religious fanatics
+---
 
-## The Portal to salvation / Celestial watchers
+## The Outer Rim Conspiracy Chronicle
 
+**This Is How We Are Being Controlled!**
+
+In a shocking revelation, sources close to the **Archives** of [[RobCorp]] have provided irrefutable evidence that these mysterious structures are not just mere repositories of knowledge but tools of manipulation wielded by shadowy elites. For too long, the powers that be have concealed the true nature of the **Archives**, using them as a means to control the narrative and the minds of the populace.
+
+Reports indicate that the **[[Grand Archivist]]** possesses knowledge that extends far beyond the comprehension of ordinary beings. Are they siphoning this knowledge to maintain their grip on power? Our investigations have uncovered alarming connections between the **Archives** and several high-profile political events, suggesting that the information stored within is being weaponized against us.
+
+Witnesses have described experiences within the **Archives** that left them irrevocably changed, as if their very perceptions of reality were manipulated. As we delve deeper into the labyrinthine halls of the **Archives**, it becomes increasingly clear: this is not merely a collection of books and knowledge, but a dark mechanism designed to keep the masses in check. The time has come to wake up and question everything we thought we knew. Are we living in an illusion crafted by the very entities that govern our existence?
+
+---
+
+## Celestial Watchers
+
+**The Portal to Salvation**
+
+The **Archives** of [[RobCorp]] have been thrust into the limelight, and with them comes a divine calling for all who seek truth and enlightenment. It is crucial to recognize that **The Archives** are not merely a collection of knowledge but a sacred pathway leading to salvation. The **Grand Archivist**, believed to be a messenger of the higher realms, serves as a guide for those who seek to unlock the hidden truths of the universe.
+
+Many have ventured into the **Archives**, seeking wisdom and insight. Their journeys have revealed glimpses of higher dimensions, where the barriers of time and space dissolve into a tapestry of divine knowledge. The **Garden of Truth**, with its serene beauty, stands as a testament to the transformative power of knowledge, while the **Sphere of Madness** serves as a warning for those who would dare to challenge the divine order.
+
+The forces that threaten to distort the truth surrounding the **Archives** must be resisted. Religious factions that aim to undermine the sanctity of this place must be exposed. We, the faithful, are called to stand united in reverence for the **Archives**, recognizing them as a portal to a greater understanding of existence. In these turbulent times, the **Archives** represent not just a repository of knowledge, but a chance for humanity to connect with the divine. It is our duty to embrace this opportunity and seek the salvation that awaits within.
