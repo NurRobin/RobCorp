@@ -75,6 +75,9 @@ H1ryu’s inexplicable rise through the ranks is one of the most baffling aspect
 
 Despite numerous complaints from colleagues and endless performance issues documented (and subsequently redacted), promotions have continued without explanation. Some speculate that there may be a deeper reason behind his ability to remain within RobCorp's ranks—though any attempt to investigate further has met with sealed files and heavy archival protections.
 
+>**Supervisor Remark:**
+>"I've once tried to terminate him. A month later he was my superior. How does this even work"
+
 ---
 
 ### **Conclusion**
