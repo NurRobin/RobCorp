@@ -11,10 +11,14 @@
             "id": "78681fe37d15e7bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Master/Current/RobCorp/The Archives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Archives"
             }
           }
         ]
@@ -157,6 +161,7 @@
   },
   "active": "78681fe37d15e7bc",
   "lastOpenFiles": [
+    "Master/History/Ideas.md",
     "Untitled.canvas",
     "Master/Current/RobCorp/RobCorp.md",
     "Archives/Project War Casket/Overview.md",
